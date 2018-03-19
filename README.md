@@ -1,4 +1,5 @@
 # auto-build
+```
 golang 自动编译工具
 
 Install:
@@ -12,5 +13,5 @@ welcome start xiaochuan auto-build
     golang      运行应用程序监听当前目录
 
 Use auto-build help [command] for more information about a command.
-
+```
 
